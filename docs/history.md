@@ -1,6 +1,11 @@
 Release History
 ===============
 
+Proposed: safe_panop_cmd
+------------------------
+
+* Add list of op commands that will not trigger changes
+
 V2.2.2
 ------
 
